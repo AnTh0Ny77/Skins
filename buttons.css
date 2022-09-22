@@ -1,0 +1,27 @@
+.btn-success{
+
+}
+.btn-primary{
+    
+}
+.btn-danger{
+
+}
+.btn-classic{
+
+}
+
+@media (max-width:900px){
+    .btn-success{
+
+    }
+    .btn-primary{
+        
+    }
+    .btn-danger{
+    
+    }
+    .btn-classic{
+    
+    }
+}

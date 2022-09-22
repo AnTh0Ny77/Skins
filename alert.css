@@ -1,0 +1,14 @@
+.alert{
+
+}
+.alert-danger{
+
+}
+@media (max-width:900px){
+    .alert{
+
+    }
+    .alert-danger{
+    
+    }
+}

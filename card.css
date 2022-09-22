@@ -1,0 +1,12 @@
+.card{
+    
+    background: #FFFFFF;
+    box-shadow: 4px 4px 8px rgba(0, 0, 0, 0.16);
+    border-radius: 10px;
+}
+
+@media (max-width:900px){
+    .card{
+
+    }
+}

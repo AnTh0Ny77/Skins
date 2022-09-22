@@ -1,0 +1,15 @@
+.link-classic{
+
+}
+.link-classic-smartphone{
+
+}
+
+@media (max-width:900px){
+    .link-classic{
+
+    }
+    .link-classic-smartphone{
+    
+    }
+}

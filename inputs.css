@@ -1,0 +1,41 @@
+.input-text{
+
+}
+.input-text:focus{
+    
+}
+.input-text:hover{
+    
+}
+.input-text-large{
+
+}
+.input-text-large:focus{
+
+}
+.input-text-large:hover{
+
+}
+
+
+@media (max-width:900px){
+    .input-text{
+
+    }
+    .input-text:focus{
+        
+    }
+    .input-text:hover{
+        
+    }
+    .input-text-large{
+
+    }
+    .input-text-large:focus{
+    
+    }
+    .input-text-large:hover{
+    
+    }
+    
+}
